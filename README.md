@@ -1,11 +1,13 @@
-### Install dependencies ⏬
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-### Start developing ⚒️
+### Start developing
 
 ```bash
 npm run dev
 ```
+
+Hello World
